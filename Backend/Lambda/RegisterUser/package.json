@@ -1,0 +1,15 @@
+{
+  "name": "registeruser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "RegisterUser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.7",
+    "uuid": "^3.4.0"
+  }
+}
